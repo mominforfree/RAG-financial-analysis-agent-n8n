@@ -1,0 +1,45 @@
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# API keys / secrets
+*.key
+*.pem
+credentials.json
+secrets.json
+
+# n8n local data
+.n8n/
+n8n-data/
+database.sqlite
+database.sqlite-journal
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# Node dependencies
+node_modules/
+
+# Temporary files
+tmp/
+temp/
+.cache/
+
+# PDFs / private data
+*.pdf
+*.docx
+*.xlsx
+*.csv
