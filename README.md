@@ -1,4 +1,4 @@
-# Financial PDF RAG Agent with n8n
+# Financial PDF RAG Agent with N8N
 
 A RAG-based financial document analysis agent built using **n8n**, **Pinecone**, **Google Drive**, and **OpenAI**.
 
